@@ -5,6 +5,9 @@ import Textform from './Components/Textform';
 
 function App() {
   return (
+
+
+  
     
     <>
    <Navbar aboutText= "About" />
@@ -13,7 +16,7 @@ function App() {
    <Textform heading="Enter the Text to Analyze"/>
    </div>
     </>
-    
+   
   );
 }
 
